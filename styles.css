@@ -11,7 +11,8 @@ h2{
     text-align: center;
     font-family: "American Captain";
 }
-table{
-   text-align: center;
-    font-family: "American Captain";
+table {
+  margin: 0 auto;
+  text-align: center;
+  font-family: "American Captain";
 }
